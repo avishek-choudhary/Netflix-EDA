@@ -10,7 +10,7 @@ import seaborn as sns
 
 ```python
 # importing the dataset
-df = pd.read_csv(r'D:\Avishek\realme\DA\python\Projects\Netflix EDA\8. Netflix Dataset.csv')
+df = pd.read_csv(r'dataset.csv')
 ```
 
 # Exploratory Data Analysis (EDA)
